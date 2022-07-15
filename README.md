@@ -62,3 +62,4 @@
 > $ sshfs -p 7777 root@localhost:/mnt/simul /mnt/simul
 > ```
 > After running the course above, you can use the /mnt/simul directory on the host server as a csd mounted directory.
+> https://github.com/KETI-OpenCSD/simulator
